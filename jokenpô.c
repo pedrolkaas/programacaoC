@@ -54,7 +54,7 @@ int main()
             (escolhajogador == 2)&&(escolhacomputador == 1)||
             (escolhajogador == 3 )&&(escolhacomputador == 2))
   {
-     printf("parabens voçê ganhou!\n");
+     printf("Parabéns voçê ganhou!\n");
   }else{
      printf("voçê perdeu!\n");
     }
